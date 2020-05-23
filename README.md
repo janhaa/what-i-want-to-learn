@@ -1,5 +1,5 @@
 # what-i-want-to-learn
 * Rust
 * Go
-* Nuxt.JS/Next.JS
+* Nuxt.JS
 * Löcher zunähen
